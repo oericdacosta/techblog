@@ -69,7 +69,6 @@ h2{
 }
 
 #area-lateral{
-    background-color: orange;
     width: 240px;
     float: right;
 }
@@ -79,4 +78,22 @@ h2{
     text-align: center;
     padding: 15px;
     background-color: #CCC;
+}
+
+.conteudo-lateral{
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+h3{
+    color: #565656;
+    background-color: #ccc;
+    padding: 5px;
+}
+
+.postagem-lateral{
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px solid black;
 }
