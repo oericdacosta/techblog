@@ -36,3 +36,8 @@ a:hover{
     margin: 0 auto;
     padding: 15px;
 }
+
+#area-postagens{
+    width: 660px;
+    float: left;
+}
