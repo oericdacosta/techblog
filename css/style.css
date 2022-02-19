@@ -59,3 +59,8 @@ h2{
     margin-bottom: 10px;
     display: block;
 }
+
+#area-lateral{
+    width: 240px;
+    float: right;
+}
